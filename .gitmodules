@@ -1,0 +1,3 @@
+[submodule "microhal"]
+	path = microhal
+	url = https://github.com/microHAL/microhal
